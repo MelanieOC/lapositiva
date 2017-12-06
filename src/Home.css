@@ -1,0 +1,32 @@
+.home {
+    background-image: url(https://cdn.dribbble.com/users/626031/screenshots/3275842/cuvvaforowners.gif);
+    background-position-x: 70%;
+    background-position-y: 23%;
+    background-repeat: no-repeat;
+    height: 500px;
+    height: 100vh;
+}
+
+.logo {
+    width: 100vh;
+    left: 30%;
+}
+
+.btn-signUp {
+    margin-right: 10px;
+}
+
+.btns {
+    position: absolute;
+    top: 88%;
+    width: 100%;
+}
+
+img {
+    width: 311px;
+    padding-top: 10%;
+}
+
+.lit {
+    font-size: 20px;
+}

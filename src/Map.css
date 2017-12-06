@@ -1,0 +1,67 @@
+.titleLocation{
+  font-weight: bolder;
+  color:#4BCAA4;
+}
+
+.botones{
+  position: absolute;
+    bottom: 20px;
+    padding: 40px 20px;
+    padding-bottom: 0;
+    width: 100%;
+  text-decoration: none;
+  }
+
+.Homebtn {
+  border:white 3px solid;
+    width: 100%;
+    padding: 5px;
+    border-radius: 10px;
+    color:white;
+    font-size: 25px;
+  font-weight: bold;
+  background-color: #4BCAA4;
+  }
+.Homebtn:hover{
+  border: #4f5967;
+  color: white;
+  }
+
+
+.autocomplete {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+
+}
+
+#map{
+  width: 100%;
+  height: 76vh;
+}
+.value{
+  width: 50px;
+  border-right: 0;
+  font-weight: bold;
+}
+.sobre{
+  z-index: 100;
+}
+.wrapper {
+  position: relative;
+}
+.over_map {
+  position: absolute;
+  top: 20px;
+  z-index: 99;
+}
+
+.flex{
+  width: 100%;
+  height: 70vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+

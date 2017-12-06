@@ -1,0 +1,89 @@
+.btn-battle {
+    border: white 3px solid;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #4BCAA4;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.infoDamage {
+    font-weight: bolder;
+    margin-top: 0px;
+}
+
+
+/**/
+
+.selectImg {
+    padding-left: 20px;
+}
+
+.image {
+    width: 30%;
+    background-color: white;
+    border: 3px solid #ccc;
+    padding: 0px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.selected {
+    border: 3px solid #4BCAA4;
+    opacity: 1;
+    box-sizing: border-box;
+}
+
+.AddPhoto {
+    margin-top: 20px;
+}
+
+.add {
+    background: transparent;
+    border-radius: 20px;
+    border: 2px solid #4BCAA4;
+    padding: 5px;
+    margin-left: 40px;
+    font-size: 22px;
+}
+
+.btnAdd {
+    padding: 10px;
+    border-radius: 10px;
+    color: #4BCAA4;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.textarea {
+    margin-top: 18px;
+    font-size: 18px;
+}
+
+.descrip {
+    width: 82vw;
+    resize: none;
+}
+
+.capture {
+    border: white 3px solid;
+    width: 50%;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #4BCAA4;
+}
+
+.screen {
+    width: 250px;
+    height: 215px;
+}
